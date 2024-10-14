@@ -21,5 +21,6 @@
  # 💻Most Language used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-boujaada&progress=true)
 # ⏳Time statistics
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizboujaada12)](https://github.com/aziz-boujaada/Azi-Ze-BoujaaDa.git)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizboujaada12)](https://github.com/aziz-boujaada/Azi-Ze-BoujaaDa.git)</br>
+[![wakatime](https://wakatime.com/badge/user/a0e748c7-15a7-4ea2-a2ab-2d873950c38f/project/b9fb43f2-c6a8-458d-b35d-9450b27b5be8.svg)](https://wakatime.com/badge/user/a0e748c7-15a7-4ea2-a2ab-2d873950c38f/project/b9fb43f2-c6a8-458d-b35d-9450b27b5be8)
 [![wakatime](https://wakatime.com/badge/user/a0e748c7-15a7-4ea2-a2ab-2d873950c38f/project/b9fb43f2-c6a8-458d-b35d-9450b27b5be8.svg)](https://wakatime.com/badge/user/a0e748c7-15a7-4ea2-a2ab-2d873950c38f/project/b9fb43f2-c6a8-458d-b35d-9450b27b5be8)
