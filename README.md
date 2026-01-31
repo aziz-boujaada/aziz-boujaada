@@ -61,11 +61,11 @@ const aziz = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=aziz-boujaada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.zcy.dev/api?username=aziz-boujaada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-boujaada&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-boujaada&theme=radical&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-boujaada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-boujaada&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+
 
 </div>
 
@@ -133,10 +133,10 @@ const aziz = {
 ### Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aziz-boujaada&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
+### Contribution Calendar
+![GitHub Contribution Calendar](https://ghchart.rshah.org/aziz-boujaada)
 </div>
 ---
-### **Contribution Calendar**
-![GitHub Contribution Calendar](https://ghchart.rshah.org/aziz-boujaada)
 
 ---
 
