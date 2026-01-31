@@ -63,7 +63,6 @@ const aziz = {
 <div align="center">
 <img src="https://github-readme-stats.zcy.dev/api?username=aziz-boujaada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-boujaada&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-boujaada&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 
 
@@ -171,7 +170,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ### 💭 Favorite Quote
 
-*"The only way to learn a new programming language is by writing programs in it."* — **Dennis Ritchie**
+*"The only way to learn a new programming language is by writing programs in it."* 
 
 ---
 
