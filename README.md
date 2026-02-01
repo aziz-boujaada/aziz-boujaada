@@ -98,10 +98,10 @@ const aziz = {
 
 ---
 
-## 🎯 2024 Milestones & Goals
+## 🎯 2026 Milestones & Goals
 
 ### ✅ Completed
-- Built and deployed **3 full-stack projects**
+- Built and deployed **5 full-stack projects**
 - Started contributing to **open-source**
 - Mastered **Laravel fundamentals**
 - Improved **frontend design** skills
