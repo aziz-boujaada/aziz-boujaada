@@ -21,7 +21,7 @@ I'm a **22-year-old self-taught web developer** from the beautiful mountains of 
 ```typescript
 const aziz = {
   location: "Amizmiz, Morocco",
-  education: "Self-Taught",
+  education: "YouCode School",
   currentFocus: ["Laravel", "JavaScript", "RESTful APIs"],
   philosophy: "Learn by building, improve by shipping",
   lifeGoal: "Build impactful solutions that make a difference"
