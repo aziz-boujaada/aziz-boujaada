@@ -1,16 +1,30 @@
+
+
 <div align="center">
 
-# 👋 Hi, I'm Aziz Boujaada
+<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=280&section=header&text=Aziz%20Boujaada&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Laravel%20%7C%20Flutter%20%7C%20Open%20Source&descAlignY=58&descSize=18" />
 
-### Self-Taught Full-Stack Web Developer | Building Digital Solutions from Morocco 🇲🇦
+###  Full-Stack Web Developer | Building Digital Solutions from Morocco 🇲🇦
 
 [![GitHub followers](https://img.shields.io/github/followers/aziz-boujaada?style=flat-square&logo=github)](https://github.com/aziz-boujaada)
 [![Profile Views](https://komarev.com/ghpvc/?username=aziz-boujaada&color=blueviolet&style=flat-square)](https://github.com/aziz-boujaada)
 [![WakaTime](https://wakatime.com/badge/user/a0e748c7-15a7-4ea2-a2ab-2d873950c38f.svg)](https://wakatime.com/@a0e748c7-15a7-4ea2-a2ab-2d873950c38f)
 
-**`Code enthusiast • Problem solver • Lifelong learner`**
+<br>
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=aziz-boujaada&data=followers,repositories,stars,commits&theme=darkmode" />
+
+<br>
+
+<img src="https://github-widgetbox.vercel.app/api/skills?languages=php,javascript,typescript,dart,sql&frameworks=laravel,react,flutter,tailwind&databases=mysql,postgresql&tools=git,github,docker,postman,figma,jira,vscode&includeNames=true&theme=darkmode" />
+
+<br>
 
 </div>
+
+
+
+**`Code enthusiast • Problem solver • Lifelong learner`**
 
 ---
 
@@ -36,63 +50,23 @@ const aziz = {
 
 ---
 
-
 ## 🛠️ Technical Skills
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Languages</h3>
-      <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend</h3>
-      <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=json&logoColor=white" alt="REST API"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Sanctum-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Sanctum"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/MVC-0A101F?style=flat&logo=gear&logoColor=white" alt="MVC"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/RAG-22D3EE?style=flat&logo=openai&logoColor=black" alt="RAG"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 Frontend / Mobile</h3>
-      <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗄️ Databases</h3>
-      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔧 Tools</h3>
-      <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 Methodologies</h3>
-      <a href="#"><img src="https://img.shields.io/badge/Agile-0A101F?style=flat&logo=agile&logoColor=22D3EE" alt="Agile"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Scrum-0A101F?style=flat&logo=scrum&logoColor=22D3EE" alt="Scrum"/></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Domain | Technologies & Badges |
+| :--- | :--- |
+| **💻 Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **⚙️ Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=json&logoColor=white) ![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-0A101F?style=for-the-badge&logo=gear&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-22D3EE?style=for-the-badge&logo=openai&logoColor=black) |
+| **📱 Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **🗄️ Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **🔧 DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+| **📋 Methodologies** | ![Agile](https://img.shields.io/badge/Agile-0A101F?style=for-the-badge&logo=agile&logoColor=22D3EE) ![Scrum](https://img.shields.io/badge/Scrum-0A101F?style=for-the-badge&logo=scrum&logoColor=22D3EE) |
+
+</div>
 ---
+
+
 
 ## 📊 GitHub Stats
 
@@ -103,34 +77,6 @@ const aziz = {
 
 
 </div>
-
----
-
-## 🌱 Currently Learning & Exploring
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-### 📚 Technical Skills
-- Advanced **Laravel** patterns & architecture
-- Modern **JavaScript** (ES6+)
-- **RESTful API** design & best practices
-- **MySQL** optimization & query tuning
-- **Git** workflows & version control
-      
-    </td>
-    <td valign="top" width="50%">
-      
-### 🎓 Learning Resources
-- [![Codecademy](https://img.shields.io/badge/-Codecademy-1F4056?style=flat-square&logo=codecademy)](https://www.codecademy.com/)
-- [![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=coursera)](https://www.coursera.org/)
-- [![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=flat-square&logo=udemy)](https://www.udemy.com/)
-- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/)
-      
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -173,21 +119,6 @@ const aziz = {
 </div>
 ---
 
----
-
-## 💼 Featured Projects
-
-> 🔨 Building in public! Check back soon for my latest projects
-
-<!-- Example format for when you add projects:
-### 🌟 [Project Name](link)
-Brief description of what it does and technologies used.
-- **Tech Stack:** Laravel, MySQL, JavaScript
-- **Features:** Feature 1, Feature 2, Feature 3
--->
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -215,3 +146,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+
+
+
