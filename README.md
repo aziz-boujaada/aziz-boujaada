@@ -9,7 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/aziz-boujaada?style=flat-square&logo=github)](https://github.com/aziz-boujaada)
 [![Profile Views](https://komarev.com/ghpvc/?username=aziz-boujaada&color=blueviolet&style=flat-square)](https://github.com/aziz-boujaada)
 [![WakaTime](https://wakatime.com/badge/user/a0e748c7-15a7-4ea2-a2ab-2d873950c38f.svg)](https://wakatime.com/@a0e748c7-15a7-4ea2-a2ab-2d873950c38f)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tcl3n6troncaziz1)
 <br>
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=aziz-boujaada&data=followers,repositories,stars,commits&theme=darkmode" />
