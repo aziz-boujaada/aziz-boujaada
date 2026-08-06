@@ -71,10 +71,38 @@ const aziz = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.zcy.dev/api?username=aziz-boujaada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-boujaada&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-boujaada&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.zcy.dev/api?username=aziz-boujaada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+</td>
+
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-boujaada&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://codetime.dev">
+<img src="https://codetime.dev/api/widgets/donut.svg?uid=35794&days=30&limit=6&theme=dark" height="180"/>
+</a>
+</td>
+
+<td>
+<a href="https://codetime.dev">
+<img src="https://codetime.dev/api/widgets/trend.svg?uid=35794&days=90&theme=dark" width="760"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+  
+</td>
+</tr>
+</table>
 
 </div>
 
